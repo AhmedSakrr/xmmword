@@ -1,16 +1,23 @@
-### Hi there 👋
+### xmmword
+<details>
+<summary>Languages I know</summary>
+<summary>Python</summary>
+<summary>C</summary>
+<summary>C++</summary>
+<summary>Vlang</summary>
+<summary>Golang</summary>
+</details>
 
-<!--
-**xmmword/xmmword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>Languages I don't often write in</summary>
+<summary>Javascript</summary>
+<summary>Typescript</summary>
+<summary>x86/x86_64 Assembly</summary>
+</details>
 
-Here are some ideas to get you started:
+<details>
+<summary>Contact</summary>
+<summary>732592657628528701 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ xmmword
