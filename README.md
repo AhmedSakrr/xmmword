@@ -17,7 +17,7 @@
 
 <details>
 <summary>Contact</summary>
-<summary>732592657628528701 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
+<summary>835622562742272011 (Discord ID) (Lookup profile information via https://discord.id/)</summary>
 </details>
 
 ~ xmmword
