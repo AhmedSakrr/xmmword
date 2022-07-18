@@ -17,7 +17,7 @@
 
 <details>
 <summary>Extra</summary>
-<summary>Github-Gist page: https://gist.github.com/xmmword</summary>
+<summary>https://gist.github.com/xmmword (Github-Gist page)</summary>
 </details>
 
 <details>
