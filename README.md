@@ -1,23 +1,22 @@
 ### xmmword
 <details>
 <summary>Languages I know</summary>
-<summary>Python</summary>
-<summary>C</summary>
-<summary>C++</summary>
-<summary>Vlang</summary>
-<summary>Golang</summary>
+<ul>
+  <li>Python</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>Vlang</li>
+  <li>Golang</li>
+</ul>
 </details>
 
 <details>
 <summary>Languages I don't often write in</summary>
-<summary>Javascript</summary>
-<summary>Typescript</summary>
-<summary>x86/x86_64 Assembly</summary>
-</details>
-
-<details>
-<summary>Extra</summary>
-<summary>https://gist.github.com/xmmword (Github-Gist page)</summary>
+<ul>
+  <li>Javascript</li>
+  <li>Typescript</li>
+  <li>x86/x86_64 Assembly</li>
+</ul>
 </details>
 
 <details>
