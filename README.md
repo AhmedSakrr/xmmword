@@ -22,7 +22,7 @@
 <details>
 <summary>Contact</summary>
 <ul>
-  <li>835622562742272011 (Discord ID) (Lookup profile information via https://discord.id/)</li>
+  <li>For more information, contact [w1n:matrix.org]</li>
 </ul>
 </details>
 
