@@ -1,4 +1,6 @@
 ### xmmword
+Don't expect much to be uploaded **here**, most of my repositories are **private**.
+
 <details>
 <summary>Languages I know</summary>
 <ul>
